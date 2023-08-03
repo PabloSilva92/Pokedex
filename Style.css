@@ -68,3 +68,6 @@ h1 {
     letter-spacing: 1.5;
 }
 
+.reverse{
+    filter: invert(1);
+}
